@@ -69,6 +69,4 @@ def main():
             )
 
 if __name__ == "__main__":
-    import os
-    import subprocess
-    subprocess.run(["streamlit", "run", "app.py"])
+    main()

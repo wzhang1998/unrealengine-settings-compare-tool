@@ -8,11 +8,7 @@ This project is a Streamlit application designed to compare configuration settin
 unrealengine-settings-compare-tool
 ├── app
 │   ├── streamlit_app.py       # Main entry point for the Streamlit application
-├── src
 │   ├── compare_settings.py    # Logic for comparing settings between two files
-│   └── utils
-│       └── __init__.py        # Utility functions and classes
-├── tests                      # Directory for test files
 ├── README.md              # Documentation for the project
 ├── requirements.txt       # Project dependencies
 ```
